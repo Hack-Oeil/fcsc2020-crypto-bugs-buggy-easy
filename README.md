@@ -13,7 +13,7 @@ Origine : [Bugs Buggy Easy](https://hackropole.fr/fr/challenges/crypto/fcsc2020-
 > http://localhost
 
 #### tentez 
-> nc bugs-buggy-easy.cyrhades.com:4000
+> nc bugs-buggy-easy.cyrhades.fr:4000
 
 
 -----------
