@@ -4,7 +4,7 @@ On nous informe que ce service de signature serait buggué. Pourriez-vous regard
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Bugs Buggy Easy](https://hackropole.fr/fr/challenges/crypto/fcsc2020-crypto-bugs-buggy-easy/)
 
